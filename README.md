@@ -12,10 +12,13 @@ Esse é um tutorial básico do scikit-learn para a matéria de Mineração de Da
 - pip
 
 ## Setando configurações iniciais
-1. `git clone https://github.com/dgspai/scikit-tutorial.git`
-2. `mkvirtualenv -p python3 tutorial-scikit-ENV`
-3. `cd scikit-tutorial && setvirtualenvproject`
-4. `pip3 install -r requirements.txt`
+```
+git clone https://github.com/dgspai/scikit-tutorial.git
+mkvirtualenv -p python3 tutorial-scikit-ENV
+cd scikit-tutorial && setvirtualenvproject
+pip3 install -r requirements.txt
+
+```
 
 ## Para iniciar os trabalhos
 `jupyter notebook`
